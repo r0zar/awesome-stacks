@@ -194,8 +194,6 @@ Stacks enables decentralized apps and predictable smart contracts using the Clar
 
 ### Grants & Funding
 - [Stacks Foundation Grants](https://grants.stacks.org/) - Official grant program
-- [Bitcoin Frontier Fund](https://bitcoinfrontierfund.org/) - Early-stage funding
-- [Stacks Ventures](https://stacks.vc/) - Investment and acceleration
 
 ### Accelerators & Incubators
 - [Bitcoin Startup Lab](https://bitcoinstartuplab.com/) - Bitcoin-focused accelerator
@@ -205,7 +203,6 @@ Stacks enables decentralized apps and predictable smart contracts using the Clar
 ### Bounty Programs
 - [Code for STX](https://www.stacks.co/code-for-stx) - Monthly STX rewards for builders
 - [Bug Bounty Program](https://github.com/stacks-network/stacks-core/security) - Security vulnerability rewards
-- [Community Challenges](https://github.com/stacksgov/community-challenges) - Community-driven bounties
 
 ### Developer Communities
 - [Clarity Collective](https://clarity.community/) - Exclusive community for proven builders
