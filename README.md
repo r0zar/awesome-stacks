@@ -121,6 +121,7 @@ Stacks enables decentralized apps and predictable smart contracts using the Clar
 - [Hiro API Documentation](https://hirosystems.github.io/stacks-blockchain-api/) - REST API and WebSocket for Stacks
 - [Hiro Token Metadata API](https://docs.hiro.so/apis/token-metadata-api) - Official NFT and token metadata service
 - [Charisma Token Metadata API](https://tokens.charisma.rocks/) - Community-driven token metadata service
+- [Charisma TX Monitor](https://tx.charisma.rocks/) - Synchronous transaction broadcasting and confirmation tracking service
 - [On-Chain Realtime Events Hook](https://github.com/hirosystems/chainhook) - Trigger workflows based on on-chain events
 
 ### Node & Infrastructure
