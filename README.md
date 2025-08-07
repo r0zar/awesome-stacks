@@ -223,7 +223,6 @@ Stacks enables decentralized apps and predictable smart contracts using the Clar
 - [Stacks Forum](https://forum.stacks.org/) - In-depth technical discussions
 
 ### Regional Communities
-- [Stacks Japan](https://stacks.jp/) - Japanese Stacks community
 - [Stacks India](https://twitter.com/stacksindia) - Indian developer community
 - [Stacks Africa](https://twitter.com/stacksafrica) - African Stacks builders
 
